@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63653" started-at="2021-07-06T09:36:09 IST" finished-at="2021-07-06T09:37:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63653" started-at="2021-07-06T09:36:09 IST" finished-at="2021-07-06T09:37:13 IST">
+      <class name="testpackage.TestActiTimeSettingsDropdowns">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="setUp" is-config="true" duration-ms="26197" started-at="2021-07-06T09:36:09 IST" finished-at="2021-07-06T09:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTheOptionsOfFirstDropdown()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="getTheOptionsOfFirstDropdown" duration-ms="6650" started-at="2021-07-06T09:36:35 IST" finished-at="2021-07-06T09:36:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheOptionsOfFirstDropdown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="closeBrowser" is-config="true" duration-ms="2445" started-at="2021-07-06T09:36:42 IST" finished-at="2021-07-06T09:36:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="setUp" is-config="true" duration-ms="9185" started-at="2021-07-06T09:36:44 IST" finished-at="2021-07-06T09:36:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTheOptionsOfSecondDropdown()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="getTheOptionsOfSecondDropdown" duration-ms="3607" started-at="2021-07-06T09:36:54 IST" finished-at="2021-07-06T09:36:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheOptionsOfSecondDropdown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="closeBrowser" is-config="true" duration-ms="2456" started-at="2021-07-06T09:36:57 IST" finished-at="2021-07-06T09:37:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="setUp" is-config="true" duration-ms="8375" started-at="2021-07-06T09:37:00 IST" finished-at="2021-07-06T09:37:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTheOptionsOfThirdDropdown()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="getTheOptionsOfThirdDropdown" duration-ms="2959" started-at="2021-07-06T09:37:08 IST" finished-at="2021-07-06T09:37:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTheOptionsOfThirdDropdown -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testpackage.TestActiTimeSettingsDropdowns@33f88ab]" name="closeBrowser" is-config="true" duration-ms="1690" started-at="2021-07-06T09:37:11 IST" finished-at="2021-07-06T09:37:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testpackage.TestActiTimeSettingsDropdowns -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
